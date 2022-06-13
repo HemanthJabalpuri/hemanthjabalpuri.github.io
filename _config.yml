@@ -19,11 +19,6 @@ theme: "minima"
 
 rss: rss
 
-# to use highlight.js, we must disable Jekyll's syntax highlighting
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-
 plugins:
   - jekyll-feed
   - jekyll-sitemap
